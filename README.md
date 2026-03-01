@@ -4,6 +4,13 @@
 
 JSON Tool 是一个功能强大的 JSON 编辑与处理工具，基于 React 和 Monaco Editor 开发，提供了丰富的 JSON 操作功能，包括格式化、压缩、转换、历史记录等。该工具可以帮助开发者更高效地处理 JSON 数据，提高开发效率。
 
+### 插件截图
+
+| JSON 编辑 | 历史记录 |
+|-----------|----------|
+| ![JSON 编辑](https://raw.githubusercontent.com/chengjiahua/MarkdownPhotos/main/utools/json/1.png) | ![历史记录](https://raw.githubusercontent.com/chengjiahua/MarkdownPhotos/main/utools/json/2.png) |
+
+
 ## 功能特点
 
 ### 核心功能
